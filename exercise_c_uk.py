@@ -1,6 +1,3 @@
-from functools import total_ordering
-
-
 united_kingdom = [
   {
     "name": "Scotland",
