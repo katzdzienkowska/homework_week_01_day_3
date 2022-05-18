@@ -14,7 +14,8 @@ diff = 0
 for number in numbers:
     numbers.sort()
     diff = numbers[-1] - numbers[0]
-    print(diff)
+print(diff)
+#prints 98
 
 # 3. Print True if the list contains a 2 next to a 2 somewhere.
 
